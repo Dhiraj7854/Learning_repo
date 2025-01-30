@@ -7,4 +7,5 @@ int main()
     cout << "Enter a number: ";
     cin >> n;
     cout << "Number: " << n;
+    cout << "You sre good";
 }
